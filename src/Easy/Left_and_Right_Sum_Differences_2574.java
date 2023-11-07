@@ -17,7 +17,7 @@ public class Left_and_Right_Sum_Differences_2574 {
         }
 
         int[] answer = new int[size];
-        for (int i =0; i<size; i++){
+        for (int i = 0; i < size; i++) {
             answer[i] = Math.abs(leftSum[i] - rightSum[i]);
         }
 
