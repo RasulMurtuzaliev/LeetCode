@@ -33,3 +33,5 @@ public class Reverse_String_344 {
         reverse2.reverseString2(s2.toCharArray());
     }
 }
+//time complexity: O(n)
+//space complexity: O(1)

@@ -25,3 +25,5 @@ public class Valid_Anagram_242 {
         System.out.println(validAnagram242.isAnagram("anagram", "amargan"));
     }
 }
+//time complexity: O(n)
+//space complexity: O(1)

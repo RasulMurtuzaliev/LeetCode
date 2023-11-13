@@ -26,3 +26,5 @@ public class Valid_Parentheses_20 {
         System.out.println(valid_Parentheses_20.isValid("([])[]{}"));
     }
 }
+//time complexity: O(n)
+//space complexity: O(n)

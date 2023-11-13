@@ -17,3 +17,5 @@ public class Running_Sum_of_1d_Array_1480 {
         System.out.println(Arrays.toString(runningSum1480.runningSum(new int[]{1, 2, 3, 4})));
     }
 }
+//time complexity: O(n)
+//space complexity: O(n)

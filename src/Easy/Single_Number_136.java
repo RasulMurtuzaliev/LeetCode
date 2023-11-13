@@ -14,3 +14,5 @@ public class Single_Number_136 {
         System.out.println(singleNumber136.singleNumber(new int[]{1, 4, 1, 2, 12, 7, 2, 4, 12}));
     }
 }
+//time complexity: O(n)
+//space complexity: O(1)

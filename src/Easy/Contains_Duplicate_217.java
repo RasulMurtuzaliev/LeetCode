@@ -20,3 +20,5 @@ public class Contains_Duplicate_217 {
         System.out.println(containsDuplicate217.containsDuplicate(new int[]{1, 2, 3, 4, 5, 6, 7, 1}));
     }
 }
+//time complexity: O(n)
+//space complexity: O(n)
