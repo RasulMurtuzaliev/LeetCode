@@ -1,4 +1,4 @@
-package Easy;
+package Medium;
 
 public class Minimum_Penalty_for_a_Shop_2483 {
     public int bestClosingTime(String customers) {
