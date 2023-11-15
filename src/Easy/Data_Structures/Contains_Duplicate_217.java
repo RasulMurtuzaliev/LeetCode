@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Data_Structures;
 
 import java.util.HashSet;
 

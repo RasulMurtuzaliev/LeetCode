@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Prefix_Sum;
 
 import java.util.Arrays;
 

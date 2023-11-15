@@ -1,4 +1,4 @@
-package Medium;
+package Medium.Prefix_Sum;
 
 public class Minimum_Penalty_for_a_Shop_2483 {
     public int bestClosingTime(String customers) {

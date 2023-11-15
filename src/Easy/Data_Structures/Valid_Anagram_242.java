@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Data_Structures;
 
 public class Valid_Anagram_242 {
     public boolean isAnagram(String s, String t) {

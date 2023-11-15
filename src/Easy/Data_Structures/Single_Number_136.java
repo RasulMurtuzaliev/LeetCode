@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Data_Structures;
 
 public class Single_Number_136 {
     public int singleNumber(int[] nums) {

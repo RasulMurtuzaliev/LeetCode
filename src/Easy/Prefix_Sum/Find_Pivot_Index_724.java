@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Prefix_Sum;
 
 public class Find_Pivot_Index_724 {
     public int pivotIndex(int[] nums) {

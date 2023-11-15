@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Prefix_Sum;
 
 public class Find_the_Highest_Altitude_1732 {
     public int largestAltitude(int[] gain) {
