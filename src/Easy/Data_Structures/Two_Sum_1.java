@@ -5,13 +5,13 @@ import java.util.Map;
 
 public class Two_Sum_1 {
     public int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> towSumCheck = new HashMap<>();
+        Map<Integer, Integer> numAndIndex = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
             int diff = target - nums[i];
-            if (towSumCheck.containsKey(diff)) {
-                return new int[]{towSumCheck.get(diff), i};
+            if (numAndIndex.containsKey(diff)) {
+                return new int[]{numAndIndex.get(diff), i};
             }
-            towSumCheck.put(nums[i], i);
+            numAndIndex.put(nums[i], i);
         }
         return null;
     }
